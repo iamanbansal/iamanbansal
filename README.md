@@ -7,7 +7,7 @@
 - Experience in developing B2C and POS applications.
 - Experience working with product and design teams.
 - Expertise in MVVM, Android Architecture Component, Dagger2, RxJava2, Kotlin Coroutines, Espresso, JUnit, Mock, Firebase.
-- Interest lies in Programming, Tech, Android, Finance, Investiment, Gadgets.
+- Interest lies in Programming, Tech, Android, Finance, Investment, Gadgets.
 - Creating on [Viral Code](https://www.youtube.com/channel/UCQI6mK13Pa-UCeULdF7qWRw)
 
 ## 📊 Github Stats
