@@ -29,8 +29,8 @@
 
 ### Stalk Me 👀
 
-<a href="mailto: aman210697@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/95/95627.png" alt="Email" width="50" height="50" ></a> 
-<a href="https://medium.com/@iamanbansal" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111543.png" alt="medium" width="50" height="50" ></a> 
+<a href="mailto: aman210697@gmail.com" target="_blank"><img src="https://icons-for-free.com/download-icon-emails+mail+message+icon-1320166531906158724_512.png" alt="Email" width="50" height="50" ></a>
+<a href="https://medium.com/@iamanbansal" target="_blank"><img src="https://www.pinclipart.com/picdir/big/195-1952407_medium-icons-waag-society-clipart.png" alt="medium" width="50" height="50" ></a> 
 <a href="https://twitter.com/iamanbansal" target="_blank"><img src="https://image.flaticon.com/icons/png/512/179/179342.png" alt="twitter" width="50" height="50" ></a> 
 <a href="https://www.instagram.com/iaman.bansal/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="instagram" width="50" height="50" ></a> 
 <a href="https://stackoverflow.com/users/8110255/iamanbansal" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" alt="stackoverflow" width="50" height="50" ></a> 
