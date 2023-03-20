@@ -1,19 +1,19 @@
 ## About Me
 ### Hi there 👋
 
-- 🚀 A Passionate Android Developer 
-- 3+ years of experience in the design and development of multiple apps with more than 50 - million downloads.
-- Currently contributing to [Goibibo](https://bit.ly/3B0mYxC)
-- Experience in developing B2C and POS applications.
+- A software engineer focused on all things Android
+- Currently contributing to [KtNotes](https://github.com/iamanbansal/KtNotes)
+- Experience developing B2C and POS applications.
 - Experience working with product and design teams.
-- Expertise in MVVM, Android Architecture Component, Dagger2, RxJava2, Kotlin Coroutines, Espresso, JUnit, Mock, Firebase.
-- Interest lies in Programming, Tech, Android, Finance, Investment, Gadgets.
-- Creating on [Viral Code](https://www.youtube.com/channel/UCQI6mK13Pa-UCeULdF7qWRw)
+- Open Source Project contribution: [ShapeOfView](https://github.com/florent37/ShapeOfView), [Eventyay](https://github.com/fossasia/open-event-organizer-android), [NotyKt](https://github.com/PatilShreyas/NotyKT)
 
-## 📊 Github Stats
+### 📊 Github Stats
 [![Aman Bansal's github stats](https://github-readme-stats.vercel.app/api?username=iamanbansal&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamanbansal&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+### Medium publications
+- [ProAndroidDev](https://proandroiddev.com/)
+- [Level Up Coding](https://levelup.gitconnected.com/)
 
 ### Popular blogs
 - [Create Hello World App with KMM 📱- Android & IOS](https://proandroiddev.com/create-hello-world-app-in-kmm-android-ios-79cc8c9bb84b)
@@ -29,14 +29,11 @@
 
 ### Stalk Me 👀
 
-<a href="mailto: aman210697@gmail.com" target="_blank"><img src="https://icons-for-free.com/download-icon-emails+mail+message+icon-1320166531906158724_512.png" alt="Email" width="50" height="50" ></a>
-<a href="https://medium.com/@iamanbansal" target="_blank"><img src="https://www.pinclipart.com/picdir/big/195-1952407_medium-icons-waag-society-clipart.png" alt="medium" width="50" height="50" ></a> 
-<a href="https://twitter.com/iamanbansal" target="_blank"><img src="https://image.flaticon.com/icons/png/512/179/179342.png" alt="twitter" width="50" height="50" ></a> 
-<a href="https://www.instagram.com/iaman.bansal/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="instagram" width="50" height="50" ></a> 
-<a href="https://stackoverflow.com/users/8110255/iamanbansal" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" alt="stackoverflow" width="50" height="50" ></a> 
-<a href="https://www.linkedin.com/in/iamanbansal/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="linkedin" width="50" height="50" ></a> 
-<a href="https://www.youtube.com/channel/UCQI6mK13Pa-UCeULdF7qWRw" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="" width="50" height="50" ></a>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman210697@gmail.com)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iamanbansal)
+[![](https://img.shields.io/badge/Twitter-1DA1F3?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamanbansal)
+[![](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iaman.bansal/)
+[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8110255/iamanbansal)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamanbansal/")
+[![](https://img.shields.io/badge/-Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/developer?id=AmanBansal)
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=iamanbansal">
-</p≈>
